@@ -3,7 +3,7 @@ const fs = require('fs')
 
 inquirer.prompt([
     {
-        message: 'Choose three character for your logo',
+        message: 'Choose three characters for your logo',
         name: 'logo',
 
     },
