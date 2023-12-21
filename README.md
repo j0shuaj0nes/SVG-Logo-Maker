@@ -3,4 +3,4 @@ a Node.js command-line application that takes in user input to generate a logo a
 
 
 ## Walk through video link 
-[Link Here](https://drive.google.com/file/d/1Av2cJUEAMXRNVgDsiof2UU1VBf4eq3do/view)
+[Link Here](https://drive.google.com/file/d/1AK9MHbbFEMwpoaESd9P6vEZ5_H-vdhrt/view)
