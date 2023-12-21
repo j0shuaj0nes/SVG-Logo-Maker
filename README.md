@@ -15,8 +15,8 @@ Run 'npm i' in the integrated terminal to install necessary packages for this ap
 The user opens this index.js file and then opens the integrated terminal. They then run 'node index'. The app then prompts the user to enter three characters for their logo, the colour of the logo characters, the colour of the logo shape, and the shape they would like their logo to appear in. Once all the prompts are answered, the logo maker then creates a logo.svg file for the user with all of their input added into their desired logo. Refer to [Walk through video](#Walk through video link) for a run through of how this app works. 
 
 ## Credits
-[Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) 
-[Wikipedia](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
+[Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) <br>
+[Wikipedia](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) <br>
 [Jest](https://www.npmjs.com/package/jest)
 
 ## Tests
