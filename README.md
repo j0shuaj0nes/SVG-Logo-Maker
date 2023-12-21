@@ -12,7 +12,7 @@ Run 'npm i' in the integrated terminal to install necessary packages for this ap
 
 ## Usage
 
-The user opens this index.js file and then opens the integrated terminal. They then run 'node index'. The app then prompts the user to enter three characters for their logo, the colour of the logo characters, the colour of the logo shape, and the shape they would like their logo to appear in. Once all the prompts are answered, the logo maker then creates a logo.svg file for the user with all of their input added into their desired logo. [Walk through video](https://drive.google.com/file/d/1AK9MHbbFEMwpoaESd9P6vEZ5_H-vdhrt/view) for a run through of how this app works. 
+The user opens this index.js file and then opens the integrated terminal. They then run 'node index'. The app then prompts the user to enter three characters for their logo, the colour of the logo characters, the colour of the logo shape, and the shape they would like their logo to appear in. Once all the prompts are answered, the logo maker then creates a logo.svg file for the user with all of their input added into their desired logo. Refer to the [walk through video](https://drive.google.com/file/d/1AK9MHbbFEMwpoaESd9P6vEZ5_H-vdhrt/view) for a run through of how this app works. 
 
 ## Credits
 * [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) <br>
