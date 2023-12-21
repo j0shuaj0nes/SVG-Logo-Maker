@@ -6,6 +6,11 @@ This Node.js command-line application takes in user input to generate a logo and
 It quickly and easily generates a simple logo for a user's ease and convenience. 
 The reason for building this app was to provide users with a fast solution for creating basic logos, which they can put into use within minutes. 
 
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
 ## Installation
 
 Run 'npm i' in the integrated terminal to install necessary packages for this app. 
