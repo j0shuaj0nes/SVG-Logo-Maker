@@ -6,18 +6,13 @@ This Node.js command-line application takes in user input to generate a logo and
 It quickly and easily generates a simple logo for a user's ease and convenience. 
 The reason for building this app was to provide users with a fast solution for creating basic logos, which they can put into use within minutes. 
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 Run 'npm i' in the integrated terminal to install necessary packages for this app. 
 
 ## Usage
 
-The user opens this index.js file and then opens the integrated terminal. They then run 'node index'. The app then prompts the user to enter three characters for their logo, the colour of the logo characters, the colour of the logo shape, and the shape they would like their logo to appear in. Once all the prompts are answered, the logo maker then creates a logo.svg file for the user with all of their input added into their desired logo. Refer to [Walk through video](#Walk through video link) for a run through of how this app works. 
+The user opens this index.js file and then opens the integrated terminal. They then run 'node index'. The app then prompts the user to enter three characters for their logo, the colour of the logo characters, the colour of the logo shape, and the shape they would like their logo to appear in. Once all the prompts are answered, the logo maker then creates a logo.svg file for the user with all of their input added into their desired logo. Refer to - [Walk through video](#Walk through video link) for a run through of how this app works. 
 
 ## Credits
 * [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) <br>
